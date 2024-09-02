@@ -3,13 +3,13 @@
 The Google Advanced Data Analytics Professional Certificate program is a comprehensive learning path that covers a range of topics related to data analysis and machine learning. The program consists of the following courses:
 
 ### Foundations of Data Science
-        Introduction to data science and its significance in the modern world.
-        Understanding data types, data sources, and data quality.
-        Exploratory data analysis techniques.
-        Basic statistical concepts and measures.
-        Data cleaning and preprocessing techniques.
-        Introduction to data visualization.
-        Using Python libraries for data analysis (e.g., Pandas, NumPy).
+- Introduction to data science and its significance in the modern world.
+- Understanding data types, data sources, and data quality.
+- Exploratory data analysis techniques.
+- Basic statistical concepts and measures.
+- Data cleaning and preprocessing techniques.
+- Introduction to data visualization.
+- Using Python libraries for data analysis (e.g., Pandas, NumPy).
 
 ### Get Started With Python
         Gain a solid foundation in Python programming.
@@ -62,7 +62,7 @@ The Google Advanced Data Analytics Professional Certificate program is a compreh
         Model training, evaluation, and validation techniques.
         Deploying machine learning models in production.
 
-    Google Advanced Data Analytics Capstone
+### Google Advanced Data Analytics Capstone
         Apply the acquired knowledge and skills to solve a complex data analytics problem.
         Demonstrate proficiency in data analysis, machine learning, and data visualization.
         Develop a comprehensive solution by leveraging GCP tools and services.
